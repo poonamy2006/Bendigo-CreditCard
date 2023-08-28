@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//li[@class='ng-binding ng-scope'][4]"
+}

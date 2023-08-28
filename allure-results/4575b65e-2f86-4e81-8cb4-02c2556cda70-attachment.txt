@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@ng-change='promoCodeDisplay(false)'][1]"
+}
